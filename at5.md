@@ -1,0 +1,5 @@
+Vou considerar que as lâmpadas são incandescentes.
+
+Primeiro eu ligaria uma das lâmpadas, esperaria alguns minutos para que esquente e depois desligaria ela, em seguida ligaria outro interruptor ia em direção a uma das salas das lâmpadas. Se a lâmpada estiver liga o ultimo interruptor que liguei é o dessa lâmpada, caso esteja desliga eu verificaria a temperatura dessa lâmpada, se estiver quente é do interruptor que liguei primeiro caso contrário é o interruptor que não liguei.
+
+Depois disso voltaria a sala de interruptores e agora sabendo de qual sala um deles pertence eu ia apenas ligar um dos interruptores que ainda não sei de qual lâmpada é e iria para outra sala, caso o a lâmpada estive ligada seria do interruptor que liguei por ultimo caso contrário é o interruptor que não liguei dessa forma a resposta de qual interruptor pertence a lâmpada da sala que não entrei se tornasse obvia. 
